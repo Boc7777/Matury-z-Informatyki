@@ -1,0 +1,30 @@
+4_1 
+
+a)
+12.08.2022
+01.09.2022
+21dni
+
+b)
+18
+ 
+4_2 
+
+styczeń	2452
+luty	1381
+marzec	3755
+kwiecień	4213
+maj	3935
+czerwiec	5566
+lipiec	6516
+sierpień	2698
+wrzesień	5680
+październik	12225
+listopad	14761
+grudzień	840
+
+
+4_3 
+
+ile dni pobierano: 93	
+ile litrow: 19152
