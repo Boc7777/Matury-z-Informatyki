@@ -1,0 +1,36 @@
+5_1 
+a)
+przychód : 39600
+koszt: 15950
+
+b) 
+01.06.2023
+
+
+5_2 
+
+styczeń	-7430
+luty	-6830
+marzec	-5240
+kwiecień	-2990
+maj	-140
+czerwiec	3520
+lipiec	8440
+sierpień	14050
+wrzesień	18370
+październik	20260
+listopad	22300
+grudzień	23650
+
+
+5_3
+
+1) 47
+2) 57
+3) 66
+
+
+5_4
+ 
+przychody: 249630
+koszty: 100655

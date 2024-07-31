@@ -1,0 +1,30 @@
+5.1
+
+a)
+
+Rodzaj_meczu	PoliczOfData_meczu
+L	113
+P	25
+T	6
+
+b)
+2007
+
+
+5.2
+
+
+Nocne Pumy	
+Zwinne Mewy	
+
+5.3 
+
+
+przegrane	452
+remis   	170
+wygrane 	579
+
+
+5.4 
+
+22 sedziów
